@@ -14,7 +14,7 @@ npm install
 npm run dev
 
 #credential 
-Admin username : ADMIN
+Admin username : admin
 password : admin
 
 Resident username : A001
