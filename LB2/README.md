@@ -1,7 +1,7 @@
 # lb2
 
 > Vuejs 2 Authentication & Role Based Authorization for your Vue.js ( Vue 2 )
-
+from: https://github.com/manojkumar3692/Vuejs-Authentication
 
 ## Build Setup
 
